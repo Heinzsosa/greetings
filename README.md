@@ -15,7 +15,7 @@ Aquí un ejemplo de como utilizar el paquete en tu código
 package main
 
 import (
-    "fmt",
+    "fmt"
     "github.com/Heinzsosa/greetings"
 )
 
